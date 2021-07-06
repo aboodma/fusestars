@@ -44,7 +44,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <legend>Login To Narabana</legend>
+            <legend>Login To Fusestars</legend>
             <form method="POST" action="{{ route('login') }}">
                 @csrf
 
